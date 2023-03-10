@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6eef515431de57b4db84f17fe58a70be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _quest: {instanceID: 0}
+  - _highlightSettings: {fileID: 11400000, guid: 759d3524389356445bf7db6688c6e0b1,
+      type: 2}
+  - _cameraTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
